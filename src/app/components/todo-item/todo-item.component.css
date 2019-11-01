@@ -1,0 +1,7 @@
+.delete {
+    float: right;
+}
+
+.completed {
+    text-decoration-line: line-through;
+}
